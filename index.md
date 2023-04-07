@@ -1,0 +1,67 @@
+# Hello World!
+
+## My Name is Grace Yang
+
+I am a _second_ year student at the University of California - San Diego studying _**Computer Science**_. 
+
+---
+
+### Courses I am currently taking **SP23**:
+- CSE 101
+- CSE 110
+- COGS 108
+- CAT 125R
+
+---
+
+### How I would rank some of the programming languages I've learned so far:
+
+1. Java
+2. Python
+3. C++  
+
+---
+### Inspirational Quote
+Everyone needs a good quote to live by, so I asked ChatGPT for an inspiratoinal quote about programming. This is what I got:
+
+> Programs must be written for people to read, and only incidentally for machines to execute.
+
+-- Harold Abelson and Gerald Jay Sussman
+
+---
+
+### Here is a picture of my dog because dogs > cats
+
+![Image](/lab1-images/hera.png)
+
+
+
+[Additionally, here is a random cute dog video](https://youtu.be/j5a0jTc9S10)!
+
+
+----
+
+### A Tast List for This Assignment 
+
+- [x] Pictures
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] External Links
+- [x] Section links
+- [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x] Ordered and Unordered Lists
+- [x] Task lists
+- [ ] Submit the assignment to Canvas
+
+---
+
+The `README.md` file for this repository can be found [here](README.md)
+
+
+---
+
+ok thx bye! 
+
+![Image](https://media.discordapp.net/attachments/561057869051723821/962058262692372510/unknown.png?width=1265&height=937)
