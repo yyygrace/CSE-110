@@ -2,15 +2,17 @@
 
 ## My Name is Grace Yang
 
-I am a _second_ year student at the University of California - San Diego studying _**Computer Science**_. 
+I am a _second_ year student at the **University of California - _San Diego_** studying **Computer Science** and **Cognitive Science** (***CS<sup>2</sup>***). 
 
 ---
 
 ### Courses I am currently taking **SP23**:
 - CSE 101
 - CSE 110
+- CSE 198
 - COGS 108
 - CAT 125R
+- ~~COGS 100~~
 
 ---
 
@@ -62,6 +64,6 @@ The `README.md` file for this repository can be found [here](README.md)
 
 ---
 
-ok thx bye! 
+<sub> ok thx bye! </sub> <- subscript btw :)
 
 ![Image](https://media.discordapp.net/attachments/561057869051723821/962058262692372510/unknown.png?width=1265&height=937)
