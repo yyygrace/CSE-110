@@ -6,6 +6,17 @@ I am a _second_ year student at the **University of California - _San Diego_** s
 
 ---
 
+## Section Links
+
+[Current Courses](#courses-i-am-currently-taking-sp23) \
+[Programming Languages](#how-i-would-rank-some-of-the-programming-languages-ive-learned-so-far) \
+[Inspirational Quote](#inspirational-quote) \
+[My Dog](#here-is-a-picture-of-my-dog-because-dogs--cats) \
+[A Python Program](#a-fun-program-you-should-definitely-run-on-your-computer) \
+[Task List](#a-tast-list-for-this-assignment)
+
+---
+
 ### Courses I am currently taking SP23:
 - CSE 101
 - CSE 110
